@@ -25,7 +25,7 @@ function Header() {
             <HeaderOptions Icons={Home} title = "Home" />
             <HeaderOptions Icons={SupervisorAccount} title = "My Network"/>
             <HeaderOptions Icons={BusinessCenter} title = "Jobs"/>
-            <HeaderOptions Icons={Chat} title = "CHat"/>
+            <HeaderOptions Icons={Chat} title = "Chat"/>
             <HeaderOptions Icons={Notifications} title = "Notifications"/>
             <HeaderOptions avatar="https://shorturl.at/fgio9" title = "Me" />
         </div>
